@@ -11,7 +11,7 @@ public:
 };
 ```
 
-![creatNode.png](Queue%20bf3955827a6a4f548692330a4f619e9a/creatNode.png)
+![creatNode.png](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/creatNode.png)
 
 ## Create a Queue class
 
@@ -29,7 +29,7 @@ public:
 };
 ```
 
-![queueOrnek.png](Queue%20bf3955827a6a4f548692330a4f619e9a/queueOrnek.png)
+![queueOrnek.png](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/queueOrnek.png)
 
 ## Explanation of the enqueue function
 
@@ -54,7 +54,7 @@ void Queue::enqueue(int data){
 used else case because front==NULL
 create temp, sync data to 17
 temp is new front and new near
-](Queue%20bf3955827a6a4f548692330a4f619e9a/firstElement.png)
+](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/firstElement.png)
 
 if the queue is empty (data is 17)
 used else case because front==NULL
@@ -65,7 +65,7 @@ temp is new front and new near
 used if case because front ≠ NULL
 1) create temp, sync data to 10
 2) near's link should point to temp
-3) new near should be the temp](Queue%20bf3955827a6a4f548692330a4f619e9a/secondElement.png)
+3) new near should be the temp](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/secondElement.png)
 
 if the queue is not empty (data is 10)
 used if case because front ≠ NULL
@@ -92,7 +92,7 @@ void Queue::dequeue()
 ![if the queue is not empty used else case 
 1) create a temp that points to the next of front
 2) free the front
-3) new front should be the temp](Queue%20bf3955827a6a4f548692330a4f619e9a/dequeue.png)
+3) new front should be the temp](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/dequeue.png)
 
 if the queue is not empty used else case 
 1) create a temp that points to the next of front
@@ -124,7 +124,7 @@ void Queue::queuePrint()
 ![if a front of queue equal NULL this queue is empty but our queue not empty. so used if case.
 create a temp from front
 use the while loop and print data of temp until you reach the last element of the queue. while loop runs three times 
-print data of temp one more time outside the loop for the last element](Queue%20bf3955827a6a4f548692330a4f619e9a/print.png)
+print data of temp one more time outside the loop for the last element](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/print.png)
 
 if a front of queue equal NULL this queue is empty but our queue not empty. so used if case.
 create a temp from front
@@ -160,7 +160,7 @@ if queue is empty, return counter(0) but our queue is not empty used if case
 create a temp from front
 use the while loop and increment the counter until you reach the last element of the queue. while loop runs three times 
 increment the counter one time outside the loop for the last element
-**return the counter**](Queue%20bf3955827a6a4f548692330a4f619e9a/print%201.png)
+**return the counter**](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/print%201.png)
 
 create a counter and start from zero
 if queue is empty, return counter(0) but our queue is not empty used if case
@@ -198,7 +198,7 @@ int Queue::maxElement()
 2.2) temp points to the third node. the max is less than temp's data . **the new max is equal to 34**
 3) the while loop has ended and we need to make an compare for the last node. the max is less than near’s data. **the new max is equal to 41
 return the max**
-](Queue%20bf3955827a6a4f548692330a4f619e9a/max.png)
+](https://github.com/EslemKurt/DataStructures/blob/main/Queue/QueueImages/max.png)
 
 1) create a temp from front and an integer max whose value is front's data **(max = 17)**
 2) use the while loop and compare the max with the data of the next node until you reach the last element of the queue.
