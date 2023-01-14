@@ -156,7 +156,7 @@ if stack is empty, return counter(0) but our stack is not empty used if case
 create iNode from top
 use the while loop and increment the counter until you reach the last element of the stack. while loop runs three times 
 increment the counter 1 time outside the loop for the last element
-return the counter](Stack%20677ebb66338f496f80bbfb43bf638230/size.png)
+return the counter](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/size.png)
 
 create a counter and start from zero
 if stack is empty, return counter(0) but our stack is not empty used if case
