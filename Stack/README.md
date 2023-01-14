@@ -11,7 +11,7 @@ public:
 };
 ```
 
-![Node.png](Stack%20677ebb66338f496f80bbfb43bf638230/Node.png)
+![Node.png](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/Node.png)
 
 ## Create a stack class
 
@@ -30,7 +30,7 @@ public:
 };
 ```
 
-![it is a stack example](Stack%20677ebb66338f496f80bbfb43bf638230/StackOrnek.png)
+![it is a stack example](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/StackOrnek.png)
 
 it is a stack example
 
@@ -65,7 +65,7 @@ if a stack has not a top this stack is empty, else is not empty
 ![first time use, data is 70.
 used else case, top==NULL
 create temp, sync data to data
-temp is new top](Stack%20677ebb66338f496f80bbfb43bf638230/aNodeStack.png)
+temp is new top](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/aNodeStack.png)
 
 first time use, data is 70.
 used else case, top==NULL
@@ -76,7 +76,7 @@ temp is new top
 used if case 
 create temp, sync data to data
 temp's address should point to top
-new top is temp](Stack%20677ebb66338f496f80bbfb43bf638230/pushTwo.png)
+new top is temp](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/pushTwo.png)
 
 second time use, data is 60.
 used if case 
@@ -103,7 +103,7 @@ void Stack::popStack(){
 ![stack is not empty used else case
 create temp, sync temp to top
 new TOP points to the element one below
-temp becomes NULL](Stack%20677ebb66338f496f80bbfb43bf638230/pop.png)
+temp becomes NULL](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/pop.png)
 
 stack is not empty used else case
 create temp, sync temp to top
@@ -125,7 +125,7 @@ int Stack::topStack(){
 
 ![top is not NULL, use if case
 the node marked by top is clear
-return data of top pointer (50)](Stack%20677ebb66338f496f80bbfb43bf638230/StackOrnek%201.png)
+return data of top pointer (50)](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/StackOrnek%201.png)
 
 top is not NULL, use if case
 the node marked by top is clear
@@ -187,7 +187,7 @@ void Stack::printStack(){
 create iNode from top
 if a top of stack equal NULL this stack is empty but our stack not
 use the while loop and print data of iNode until you reach the last element of the stack. while loop runs three times 
-print data of iNode 1 more time outside the loop for the last element](Stack%20677ebb66338f496f80bbfb43bf638230/size.png)
+print data of iNode 1 more time outside the loop for the last element](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/size.png)
 
 create iNode from top
 if a top of stack equal NULL this stack is empty but our stack not
@@ -232,4 +232,4 @@ Stack createNewStack(Stack sA, Stack sB){
 };
 ```
 
-![newStack.png](Stack%20677ebb66338f496f80bbfb43bf638230/newStack.png)
+![newStack.png](https://github.com/EslemKurt/DataStructures/blob/main/Stack/images/newStack.png)
