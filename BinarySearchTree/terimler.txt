@@ -1,0 +1,69 @@
+algorithm - a set of steps for solving a problem or completing a task.
+binary - a numbering system that uses only two digits (0 and 1).
+byte - a unit of digital information that consists of eight bits.
+circuit - a path for electricity to flow through.
+compiler - a program that translates source code into machine code.
+computer - a device that processes data according to a set of instructions.
+cpu - (central processing unit) the main processing chip of a computer.
+data - information that is processed by a computer.
+database - a collection of data that is organized and can be accessed electronically.
+debugging - the process of identifying and fixing errors in a computer program.
+digital - relating to computers and data that is stored in the form of ones and zeros.
+encryption - the process of converting data into a secure, encoded form.
+firewall - a security system that controls incoming and outgoing network traffic.
+firmware - the software that is permanently stored on a device, such as a router or printer.
+hardware - physical components of a computer system, such as the motherboard, processor, and memory.
+input - data that is entered into a computer.
+internet - a global network of interconnected computers and servers.
+ip address - a unique numerical label assigned to every device connected to the internet.
+lan - (local area network) a network of computers that are connected to each other and share resources within a limited area.
+malware - software that is designed to damage or disrupt computer systems.
+memory - a device that stores data for a computer to access.
+motherboard - the main circuit board of a computer, which houses the cpu, memory, and other components.
+network - a group of interconnected computers or devices.
+operatingsystem - the software that controls the overall functioning of a computer.
+output - data that is produced by a computer.
+packet - a unit of data that is transmitted over a network.
+patch - a software update that fixes bugs or vulnerabilities.
+peripheral - a device that is connected to a computer but is not part of the main system.
+processor - a chip that performs the instructions of a computer program.
+programming - the process of writing and testing code for a computer.
+ram - (random access memory) a type of memory that stores data temporarily for a computer to access.
+router - a device that connects different networks and forwards data between them.
+server - a computer that provides resources, such as data storage or web services, to other computers or devices.
+software - a collection of instructions that tells a computer what to do.
+sql - (structured query language) a programming language used to manage and manipulate data in a database.
+threat - a potential danger or risk to a computer system.
+trojan - malware that is disguised as legitimate software.
+virus - a piece of code that replicates itself and spreads to other computers or devices.
+vpn - (virtual private network) a secure, encrypted connection between two devices over the internet.
+ajax - (asynchronous javascript and xml) a technique for creating interactive web applications that can retrieve data from a server without reloading the page.
+apache - an open-source web server software.
+app - (application) a software program that performs a specific function or task.
+applicationserver - a server that runs applications and provides services to clients.
+bigdata - large amounts of data that are too complex to process using traditional techniques.
+blockchain - a decentralized, distributed ledger that records transactions across a network of computers.
+cdn - (content delivery network) a network of servers that delivers web content to users based on their geographic location.
+cgi - (common gateway interface) a standard for running programs on a web server.
+cms - (content management system) a software application that allows users to create and manage digital content.
+css - (cascading style sheets) a style sheet language used for describing the look and formatting of a document written in html.
+ddos - (distributed denial of service) a type of cyber attack in which multiple computers flood a server with traffic in order to disrupt service.
+dns - (domain name system) a system that translates human-readable domain names into numerical ip addresses.
+docker - a tool for packaging and deploying applications as lightweight, portable containers.
+git - a version control system for tracking changes in source code.
+github - a platform for hosting and collaborating on software projects.
+iis - (internet information services) a web server software that is included with windows.
+intranet - a private network that is used within an organization.
+kubernetes - an open-source container orchestration system.
+machinelearning - a field of artificial intelligence that involves training algorithms to learn from data.
+mvc - (model-view-controller) an architectural pattern for designing software applications.
+nosql - a type of database that does not use the traditional sql language for querying data.
+oop - (object-oriented programming) a programming paradigm that is based on the concept of objects and their interactions.
+osi - (open systems interconnection) a model that defines how computers communicate over a network.
+proxyserver - a server that acts as an intermediary between clients and other servers.
+pushtechnology - a method of delivering information to users in which the server sends data to the client without the client requesting it.
+rest - (representational state transfer) an architectural style for designing web services.
+sdk - (software development kit) a set of tools and libraries that are used to develop software applications.
+sftp - (secure file transfer protocol) a protocol for transferring files over a secure connection.
+smtp - (simple mail transfer protocol) a protocol for sending email messages.
+ssl - (secure sockets layer) a protocol for establishing secure connections between computers.
