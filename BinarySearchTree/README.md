@@ -13,7 +13,7 @@ public:
 };
 ```
 
-![aNode.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/aNode.png)
+![aNode.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/aNode.png)
 
 ## Create a Dictionary class
 
@@ -29,7 +29,7 @@ public:
 };
 ```
 
-![BST.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/BST.png)
+![BST.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/BST.png)
 
 ## Explanation of the addWord function
 
@@ -65,7 +65,7 @@ void addWord(Node *temp, string word, string mean){
 }
 ```
 
-![addWord.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/addWord.png)
+![addWord.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/addWord.png)
 
 ## Explanation of the searchWord function
 
@@ -95,7 +95,7 @@ Node *Dictionary::searchWord(string word, Node *temp)
 }
 ```
 
-![seachWord.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/seachWord.png)
+![seachWord.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/seachWord.png)
 
 ## Explanation of the viewDictionary function
 
@@ -126,7 +126,7 @@ After printing all the values on the left side of temp respectively, temp is pri
 Then if temp has a right child recursive with temp’s right.
 When the function is completed, all elements are written.
 
-![view.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/view.png)
+![view.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/view.png)
 
 ## Overload of the viewDictionary function
 
@@ -159,7 +159,7 @@ void Dictionary::viewDictionary(Node *temp, string w1, string w2)
 }
 ```
 
-![viewOverload.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/viewOverload.png)
+![viewOverload.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/viewOverload.png)
 
 ## Explanation of the deleteWord function
 
@@ -219,15 +219,15 @@ void Dictionary::deleteWord(string word)
 
 ### If the word desired to be deleted is in the leaf:
 
-![delete1.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/delete1.png)
+![delete1.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/delete1.png)
 
 ### If the word you want to delete has a child:
 
-![delete2.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/delete2.png)
+![delete2.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/delete2.png)
 
 ### If the word you want to delete has two children:
 
-![delete3.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/delete3.png)
+![delete3.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/delete3.png)
 
 ## Explanation of the changeMean function
 
@@ -241,7 +241,7 @@ void Dictionary::changeMean(string word, string mean)
 
 This function use the serchWord function and changes the meaning of the node it obtains.
 
-![change main.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/change_main.png)
+![change main.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/change_main.png)
 
 ## Explanation of the howManyWords function
 
@@ -259,4 +259,4 @@ int Dictionary::howManyWords(Node *temp)
 }
 ```
 
-![howManyW.png](Binary%20Search%20Tree%20-%20Dictionary%2094e40f0d96b945f6bd1c840dd3d9f366/howManyW.png)
+![howManyW.png](https://github.com/EslemKurt/DataStructures/blob/main/BinarySearchTree/BSTImages/howManyW.png)
